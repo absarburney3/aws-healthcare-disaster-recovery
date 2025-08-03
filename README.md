@@ -47,10 +47,6 @@ This system implements a comprehensive disaster recovery solution designed speci
 
 ## System Architecture
 
-## Quick Start
-
-> 💡 *If you're new to AWS, please refer to the **[Quick Start Guide](docs/quick-start.md)** for detailed setup help including screenshots.*
-
 ### Prerequisites
 
 * AWS Account with free tier access
